@@ -1,0 +1,5 @@
+1.npm create vite@latest
+2.project name:1-Todo-app-version-one.
+3.cd 1-Todo-app-version-one
+4.npm install 
+5.npm i bootstrap@latest
