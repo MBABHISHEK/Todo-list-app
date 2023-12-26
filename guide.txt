@@ -3,3 +3,9 @@
 3.cd 1-Todo-app-version-one
 4.npm install 
 5.npm i bootstrap@latest
+6.npm run dev
+
+
+
+coding 
+ADD THE bootstrap script into the main.jsx
