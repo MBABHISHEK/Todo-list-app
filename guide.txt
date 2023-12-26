@@ -9,3 +9,4 @@
 
 coding 
 ADD THE bootstrap script into the main.jsx
+1.Center tag which automatically places the content in the Center of the page.
